@@ -9,7 +9,8 @@ Created the [Trie DataStructure](http://en.wikipedia.org/wiki/Trie) as part of a
 2. INPUTS: 
   1. VocabularyFile- containing the entire wocabulary, 
   2. TestWordsFile- containing the words to be tested against the vocabulary
-  OUTPUTS: command line display of word being searched, truth value of finding it
+   
+   OUTPUTS: command line display of word being searched, truth value of finding it
   
 3. Sample vocabulary file and test file in .txt format is provided in the resources folder of the project
 
@@ -19,8 +20,8 @@ Created the [Trie DataStructure](http://en.wikipedia.org/wiki/Trie) as part of a
 2. only char a-z in vocabulary and test words, exits for any other symbols (True for the vocabulary I used you might want to change if you're using a custom Vocabulary file)
 
 ######Possible Bad Cases
-1. This is the only project I haven't made a pull request for from another system/ clone repository so if there's any issues in runnign please brign to my attentions
-2. Since this was absorbed into a larger project I've not vigorously checked for fail cases and end cases instead thrown it out or exit wherever possible so the outer module takes care of it (will put it up soon as I finish the UI)
+1. This is the only project I haven't made a pull request for from another system so if there's any issues in running please bring to my attentions
+2. Since this was absorbed into a larger project I've not vigorously checked for fail cases and end cases instead thrown it out or exit wherever possible so the outer module takes care of it (will put up the completed game soon as I finish the UI)
 3. VocabularyFile and TestWordsFile found but incompatible format for Scanner
 4. User possibly jumbling the order of VocabularyFile, TestWordsFile
 
